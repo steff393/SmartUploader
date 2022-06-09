@@ -16,7 +16,9 @@ Zur Einrichtung werden folgenden Daten benötigt:
 - WLAN-Zugangsdaten (optional, auch AP-Modus möglich)
 - Bluetooth-Adresse des Wechselrichters (i.d.R. 00:80:25:xx:yy:zz)
 - PIN für den Bluetooth-Zugang (i.d.R. 0000)
-- ggf. Zugangsdaten für PVoutput.org (API-Key & SystemID)
+- ggf. Zugangsdaten für PVoutput.org (API-Key & SystemID)  
+
+Die Einrichtung selbst ist im [Wiki](https://github.com/steff393/SmartUploader/wiki) beschrieben.
 
 ### Kontakt
-Die erste Version befindet sich derzeit im Test und wird zeitnah hochgeladen. Tester und Interessierte können sich gerne per wbec393@gmail.com melden.
+Tester und Interessierte können sich gerne per wbec393@gmail.com melden.
