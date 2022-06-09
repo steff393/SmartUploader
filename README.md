@@ -6,7 +6,10 @@ SmartUploader ist eine einfache und günstige Lösung, um SMA® Wechselrichter p
 Der Fokus liegt auf der günstigen Hardware (ESP32) und der einfachen und unkomplizierten Einrichtung.
 
 Die ausgelesenen Daten können bequem im Browser abgerufen werden:
-<img src="https://i.ibb.co/TP1vKbj/Web-Interface.png" alt="Web-Interface" border="0">
+<p align="center"> 
+  <img src="https://i.ibb.co/TP1vKbj/Web-Interface.png" alt="Web-Interface">
+</p>
+
 
 ### Einrichtung / Installation
 Zur Einrichtung werden folgenden Daten benötigt:
